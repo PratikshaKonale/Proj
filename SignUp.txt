@@ -1,8 +1,12 @@
-			SIGH UP
+			SIGN UP
 Username:
 Name:
 College Name:
 Branch:
+Email:
 Password:
 Reenter Password:
+				your page is successfully registered!!
+
+
 
