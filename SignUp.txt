@@ -1,0 +1,8 @@
+			SIGH UP
+Username:
+Name:
+College Name:
+Branch:
+Password:
+Reenter Password:
+
